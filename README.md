@@ -4,7 +4,7 @@ It implements a Convolutional Neural Network (CNN) combined with Long Short-Term
 
 The architecture parameters of the proposed model.
     Layer Size and Parameters 
-    CNN Layer 1 Filters: 8, Kernel Size: 2, Activation: ReLU, Input Shape: [30 × 5], Output Shape: [30 × 8] 
+    CNN Layer 1 Filters: 8, Kernel Size: 2, Activation: ReLU, Input Shape: [30 × 2], Output Shape: [30 × 8] 
     CNN Layer 2 Filters: 8, Kernel Size: 2, Activation: ReLU, Output Shape: [30 × 8] 
     CNN Layer 3 Filters: 8, Kernel Size: 2, Activation: ReLU, Output Shape: [30 × 8] 
     CNN Layer 4 Filters: 8, Kernel Size: 2, Activation: ReLU, Output Shape: [30 × 8] 
